@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Реалізація спеціальної шини подій із обмеженням", "Реалізація спеціальної шини подій із обмеженням\Реалізація спеціальної шини подій із обмеженням.csproj", "{E77210A6-FDA5-4C4C-87DE-B4656BFAF55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Запровадити шаблон публікації-підписки з пріоритетами", "Запровадити шаблон публікації-підписки з пріоритетами\Запровадити шаблон публікації-підписки з пріоритетами.csproj", "{BF74DA49-4206-4F75-AEBC-D5A038D2DD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77210A6-FDA5-4C4C-87DE-B4656BFAF55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77210A6-FDA5-4C4C-87DE-B4656BFAF55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77210A6-FDA5-4C4C-87DE-B4656BFAF55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77210A6-FDA5-4C4C-87DE-B4656BFAF55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF74DA49-4206-4F75-AEBC-D5A038D2DD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF74DA49-4206-4F75-AEBC-D5A038D2DD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF74DA49-4206-4F75-AEBC-D5A038D2DD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF74DA49-4206-4F75-AEBC-D5A038D2DD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E844967-3CBD-48D7-B8BA-5E0DDFA2BB28}
+	EndGlobalSection
+EndGlobal

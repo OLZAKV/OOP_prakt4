@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\bin\Debug\Реалізація спеціальної шини подій із обмеженням.exe.config
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\bin\Debug\Реалізація спеціальної шини подій із обмеженням.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\bin\Debug\Реалізація спеціальної шини подій із обмеженням.pdb
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\obj\Debug\Реалізація спеціальної шини подій із обмеженням.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\obj\Debug\Реалізація спеціальної шини подій із обмеженням.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\obj\Debug\Реалізація спеціальної шини подій із обмеженням.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\obj\Debug\Реалізація спеціальної шини подій із обмеженням.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt4\OOP_prakt4\Реалізація спеціальної шини подій із обмеженням\obj\Debug\Реалізація спеціальної шини подій із обмеженням.pdb

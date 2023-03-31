@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\bin\Debug\Механізм повторних спроб із затримкою та рандомізацією.exe.config
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\bin\Debug\Механізм повторних спроб із затримкою та рандомізацією.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\bin\Debug\Механізм повторних спроб із затримкою та рандомізацією.pdb
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\obj\Debug\Механізм повторних спроб із затримкою та рандомізацією.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\obj\Debug\Механізм повторних спроб із затримкою та рандомізацією.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\obj\Debug\Механізм повторних спроб із затримкою та рандомізацією.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\obj\Debug\Механізм повторних спроб із затримкою та рандомізацією.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt4\Механізм повторних спроб із затримкою та рандомізацією\obj\Debug\Механізм повторних спроб із затримкою та рандомізацією.pdb
